@@ -9,8 +9,6 @@ import (
 	"github.com/cosmos/cosmos-sdk/types"
 
 	"github.com/borispovod/guid/lib"
-
-	"guid/lib"
 )
 
 const (
